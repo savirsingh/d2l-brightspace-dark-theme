@@ -1,2 +1,2 @@
-# d2l-brightspace-dark-theme
+# D2L Brightspace Dark Theme
 Making the worst LMS slightly bearable.
