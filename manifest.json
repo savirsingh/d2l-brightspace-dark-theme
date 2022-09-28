@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Brightspace Dark Theme",
+    "version": "0.1",
+    "description": "Making the worst LMS slightly bearable.",
+    "content_scripts": [
+        {
+            "js": [
+                "jquery.min.js",
+                "content.js"
+            ],
+            "matches": [
+                "https://*.elearningontario.ca/*"
+            ]
+        }
+    ]
+}
